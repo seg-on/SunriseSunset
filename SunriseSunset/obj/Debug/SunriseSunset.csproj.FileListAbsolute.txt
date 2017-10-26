@@ -1,0 +1,8 @@
+c:\users\tomasv\documents\visual studio 2012\Projects\SunriseSunset\SunriseSunset\bin\Debug\SunriseSunset.exe.config
+c:\users\tomasv\documents\visual studio 2012\Projects\SunriseSunset\SunriseSunset\bin\Debug\SunriseSunset.exe
+c:\users\tomasv\documents\visual studio 2012\Projects\SunriseSunset\SunriseSunset\bin\Debug\SunriseSunset.pdb
+c:\users\tomasv\documents\visual studio 2012\Projects\SunriseSunset\SunriseSunset\obj\Debug\SunriseSunset.csprojResolveAssemblyReference.cache
+c:\users\tomasv\documents\visual studio 2012\Projects\SunriseSunset\SunriseSunset\obj\Debug\SunriseSunset.Properties.Resources.resources
+c:\users\tomasv\documents\visual studio 2012\Projects\SunriseSunset\SunriseSunset\obj\Debug\SunriseSunset.csproj.GenerateResource.Cache
+c:\users\tomasv\documents\visual studio 2012\Projects\SunriseSunset\SunriseSunset\obj\Debug\SunriseSunset.exe
+c:\users\tomasv\documents\visual studio 2012\Projects\SunriseSunset\SunriseSunset\obj\Debug\SunriseSunset.pdb
