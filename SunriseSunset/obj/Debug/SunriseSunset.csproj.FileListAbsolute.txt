@@ -6,3 +6,11 @@ c:\users\tomasv\documents\visual studio 2012\Projects\SunriseSunset\SunriseSunse
 c:\users\tomasv\documents\visual studio 2012\Projects\SunriseSunset\SunriseSunset\obj\Debug\SunriseSunset.csproj.GenerateResource.Cache
 c:\users\tomasv\documents\visual studio 2012\Projects\SunriseSunset\SunriseSunset\obj\Debug\SunriseSunset.exe
 c:\users\tomasv\documents\visual studio 2012\Projects\SunriseSunset\SunriseSunset\obj\Debug\SunriseSunset.pdb
+D:\Projects\Github\Repos\SunriseSunset\SunriseSunset\bin\Debug\SunriseSunset.exe.config
+D:\Projects\Github\Repos\SunriseSunset\SunriseSunset\obj\Debug\SunriseSunset.exe
+D:\Projects\Github\Repos\SunriseSunset\SunriseSunset\obj\Debug\SunriseSunset.pdb
+D:\Projects\Github\Repos\SunriseSunset\SunriseSunset\bin\Debug\SunriseSunset.exe
+D:\Projects\Github\Repos\SunriseSunset\SunriseSunset\bin\Debug\SunriseSunset.pdb
+D:\Projects\Github\Repos\SunriseSunset\SunriseSunset\obj\Debug\SunriseSunset.csprojResolveAssemblyReference.cache
+D:\Projects\Github\Repos\SunriseSunset\SunriseSunset\obj\Debug\SunriseSunset.Properties.Resources.resources
+D:\Projects\Github\Repos\SunriseSunset\SunriseSunset\obj\Debug\SunriseSunset.csproj.GenerateResource.Cache
